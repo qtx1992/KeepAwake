@@ -1,0 +1,12 @@
+# 忽略编译生成的程序与调试文件
+*.exe
+*.dll
+*.pdb
+*.obj
+*.user
+
+# 忽略编辑器与临时目录
+.vs/
+.vscode/
+bin/
+obj/
